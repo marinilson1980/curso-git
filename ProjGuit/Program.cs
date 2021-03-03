@@ -6,6 +6,7 @@ namespace ProjGuit {
         {
             Console.WriteLine("Olá Mundo!");
             Console.WriteLine("Boa tarde!");
+            Console.WriteLine("Como você está?");
         }
     }
 }
